@@ -1,0 +1,162 @@
+[
+  {
+    "Option 1": "Software Quick Access",
+    "Option 2": "Software Quality Assurance",
+    "Answer Key": 2,
+    "Question": "What does SQA stand for?",
+    "Option 3": "System Quality Approval",
+    "Option 4": "Software Query Application"
+  },
+  {
+    "Option 1": "Planning",
+    "Option 2": "Designing",
+    "Answer Key": 4,
+    "Question": "Which of the following is NOT a part of SQA?",
+    "Option 3": "Testing",
+    "Option 4": "Cooking"
+  },
+  {
+    "Option 1": "System Testing",
+    "Option 2": "Acceptance Testing",
+    "Answer Key": 2,
+    "Question": "Which type of testing is performed by end-users?",
+    "Option 3": "Unit Testing",
+    "Option 4": "Integration Testing"
+  },
+  {
+    "Option 1": "Dynamic Testing",
+    "Option 2": "Static Testing",
+    "Answer Key": 2,
+    "Question": "Which testing is done without executing code?",
+    "Option 3": "Integration Testing",
+    "Option 4": "System Testing"
+  },
+  {
+    "Option 1": "Notepad",
+    "Option 2": "JIRA",
+    "Answer Key": 2,
+    "Question": "Which tool is commonly used for bug tracking?",
+    "Option 3": "Excel",
+    "Option 4": "Photoshop"
+  },
+  {
+    "Option 1": "Test Strategy",
+    "Option 2": "Test Plan",
+    "Answer Key": 3,
+    "Question": "Which document describes test cases and expected results?",
+    "Option 3": "Test Case Document",
+    "Option 4": "Design Doc"
+  },
+  {
+    "Option 1": "Check performance",
+    "Option 2": "Test new features",
+    "Answer Key": 3,
+    "Question": "Regression testing is used to:",
+    "Option 3": "Ensure old features still work",
+    "Option 4": "Clean memory"
+  },
+  {
+    "Option 1": "Feature",
+    "Option 2": "Code",
+    "Answer Key": 3,
+    "Question": "What is a defect in software?",
+    "Option 3": "Error",
+    "Option 4": "Performance"
+  },
+  {
+    "Option 1": "Testers",
+    "Option 2": "Developers",
+    "Answer Key": 2,
+    "Question": "Unit testing is performed by:",
+    "Option 3": "Clients",
+    "Option 4": "Managers"
+  },
+  {
+    "Option 1": "Marketing",
+    "Option 2": "Design",
+    "Answer Key": 3,
+    "Question": "Which of the following ensures quality in software?",
+    "Option 3": "Quality Assurance",
+    "Option 4": "Coding"
+  },
+  {
+    "Option 1": "Design",
+    "Option 2": "Coding",
+    "Answer Key": 4,
+    "Question": "Test plan is prepared during which phase?",
+    "Option 3": "Testing",
+    "Option 4": "Planning"
+  },
+  {
+    "Option 1": "Exhaustive testing",
+    "Option 2": "Initial basic testing",
+    "Answer Key": 2,
+    "Question": "Smoke testing is:",
+    "Option 3": "Performance testing",
+    "Option 4": "Unit testing"
+  },
+  {
+    "Option 1": "Code Walkthrough",
+    "Option 2": "Equivalence Partitioning",
+    "Answer Key": 2,
+    "Question": "Which of the following is a black-box testing technique?",
+    "Option 3": "Code Review",
+    "Option 4": "Path Testing"
+  },
+  {
+    "Option 1": "Unit",
+    "Option 2": "Module",
+    "Answer Key": 2,
+    "Question": "Which is NOT a level of software testing?",
+    "Option 3": "System",
+    "Option 4": "Acceptance"
+  },
+  {
+    "Option 1": "Unit Testing",
+    "Option 2": "Integration Testing",
+    "Answer Key": 3,
+    "Question": "Which type of testing checks how the software performs under load?",
+    "Option 3": "Performance Testing",
+    "Option 4": "Regression Testing"
+  },
+  {
+    "Option 1": "HR",
+    "Option 2": "Developer",
+    "Answer Key": 3,
+    "Question": "Who writes test cases?",
+    "Option 3": "Tester",
+    "Option 4": "Client"
+  },
+  {
+    "Option 1": "Test individual units",
+    "Option 2": "Check overall system",
+    "Answer Key": 3,
+    "Question": "What is the goal of integration testing?",
+    "Option 3": "Test interfaces between modules",
+    "Option 4": "Market analysis"
+  },
+  {
+    "Option 1": "An animal",
+    "Option 2": "A defect",
+    "Answer Key": 2,
+    "Question": "A software bug is:",
+    "Option 3": "A design",
+    "Option 4": "A code block"
+  },
+  {
+    "Option 1": "Unit Testing",
+    "Option 2": "Acceptance Testing",
+    "Answer Key": 2,
+    "Question": "Which type of testing ensures that the software meets user requirements?",
+    "Option 3": "Regression Testing",
+    "Option 4": "Static Testing"
+  },
+  {
+    "Option 1": "To create a new feature",
+    "Option 2": "To define what to test and expected output",
+    "Answer Key": 2,
+    "Question": "What is the purpose of a test case?",
+    "Option 3": "To hire QA engineers",
+    "Option 4": "To deploy software"
+  }
+]
