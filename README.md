@@ -191,4 +191,4 @@ Would you like to start again? press s for start or q for quit.
 3. Follow the on-screen prompts to log in as Admin or Student and interact with the system.
    
 ## Project Output Video.
-[Click Here To see the project output video.](https://drive.google.com/file/d/1C9U9wJ5zbjqSwL6ku9-hcxv2v2Z4Yu7A/view?usp=sharing)
+[Click Here To see the project output video.](https://drive.google.com/file/d/1Ny7dlEGqEznI77lwVvuDtFVgRT5Rm1kE/view?usp=sharing)
